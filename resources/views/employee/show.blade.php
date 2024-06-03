@@ -20,7 +20,7 @@
                 <div class="col-lg-12">
 
                     <div class="alert alert-info">
-                    Employee Table
+                    Employee table table
                     </div>
 
                     <div class="card">
